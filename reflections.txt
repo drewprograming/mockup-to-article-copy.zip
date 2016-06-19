@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+i learned a lot of new skills like how to use inspect element and alot of new fonts and ways to add images and links to websites i feel that learning a lot of fonts was easy but it was difficult to think where to add them how to style them and notice the bugs when it does not work i also feel that it taught me that sometimes its hard and you want to give up but you get back up and try and at the end its all worth it.
